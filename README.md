@@ -16,7 +16,7 @@ The course is intended as a first graduate course in the design and analysis of 
 
 At times, the practical side of algorithm design and implementation is also explored with examples of their usage in solving industry problems.
 
-# Course Outcome:
+## Course Outcome:
 - Understand major algorithm design and analysis techniques  
 - Design, analyze complexity of, and prove correctness of problems  
 - Understand NP, NP-complete, and NP-hard classifications  
