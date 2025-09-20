@@ -1,4 +1,6 @@
-# Course Outline:
+#CSCI - 570 -- Analysis of Algorithms
+
+## Course Outline:
 The course is intended as a first graduate course in the design and analysis of algorithms. The focus is on developing an understanding of the major algorithm design techniques. 
 
 ## Algorithmic techniques covered include:
